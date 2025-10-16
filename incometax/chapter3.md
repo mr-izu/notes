@@ -1,32 +1,41 @@
-Income from house property:Income received from Rent
-Exceptions for tax:
+# Income from House Property
+
+**Income from house property:** Income received from Rent.
+
+## Exceptions for Tax
+
 - Agriculture
-- farm house
-- Two self occupied land
-- Ex indian ruler palace
+- Farm house
+- Two self-occupied land
+- Ex-Indian ruler palace
 - Club
-- Held by political Party
-- held by trust
-- hospital
+- Held by political party
+- Held by trust
+- Hospital
 - Held by local authority
-- business or profession
+- Business or profession
 - University
 
-legal owner:Real owner according to transfer of property Act and RegistraƟon Act.  
-Co-ownership:Single property owned by more than one person  
-Deemed Owner:Situation where a person is consider as the owner of an asset or property for tax  
+## Ownership Definitions
 
-Situation of Deemed ownership:
+- **Legal owner:** Real owner according to Transfer of Property Act and Registration Act.
+- **Co-ownership:** Single property owned by more than one person.
+- **Deemed Owner:** Situation where a person is considered as the owner of an asset or property for tax purposes.
+
+## Situations of Deemed Ownership
+
 - Transfer of property
 - Property held by HUF
 - Possession and enjoyment
 - Property held by Trust
 
-Actual Rent(AR):the rent received from the tenant to house owner  
-Municipal Rent value(MRV): Value of rent determined by Muncipality
-Fair rental value(FRV):Similar type of property rented in same area
-Standard rental value(SRV):Fixed rent under Rent property act
-Expected Rental Value(ERV):Reasonable Rent
-Gross Annual value(GAV):Used for Immovable property.calculated with Income received with expected income
-Composite rent:Income received for both building and assets for the owner
-unrealized rent:not paid in a financial year
+## Rental Value Definitions
+
+- **Actual Rent (AR):** The rent received from the tenant to house owner.
+- **Municipal Rent Value (MRV):** Value of rent determined by Municipality.
+- **Fair Rental Value (FRV):** Similar type of property rented in same area.
+- **Standard Rental Value (SRV):** Fixed rent under Rent Property Act.
+- **Expected Rental Value (ERV):** Reasonable Rent.
+- **Gross Annual Value (GAV):** Used for immovable property. Calculated with income received and expected income.
+- **Composite Rent:** Income received for both building and assets for the owner.
+- **Unrealized Rent:** Rent not paid in a financial year.
