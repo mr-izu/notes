@@ -1,12 +1,84 @@
-title: "private Documentation"
-description: "Official documentation"
-remote_theme: just-the-docs/just-the-docs
+# Site settings
+title: "Your Site Title"
+description: "Your site description goes here"
+baseurl: "" # leave empty if serving from root, or use repository name if using GitHub Pages
+url: "https://your-username.github.io" # replace with your domain or GitHub Pages URL
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-elca
+remote_theme: mr-izu/elca
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
 
-# (Optional) Just the Docs settings
-color_scheme: light
-# _config.yml
-footer_content: "© 2025 Shammi. All rights reserved."
-permalink: pretty
+# Theme-specific settings
+header_pages:
+  - index.md
+  - about.md
+
+# Navigation links
+nav_links:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Blog
+    url: /blog
+
+# Author information
+author:
+  name: "Your Name"
+  email: "your-email@example.com"
+  twitter: "yourtwitterhandle"
+
+# Social links
+social:
+  github: your-username
+  twitter: yourtwitterhandle
+  linkedin: your-linkedin
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Your Name"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
+
+# Optional: Collections
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+# Optional: SASS settings
+sass:
+  style: compressed
+
+# SEO Tag settings
+twitter:
+  username: yourtwitterhandle
+
+# Feed settings
+feed:
+  path: atom.xml
