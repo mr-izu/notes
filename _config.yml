@@ -1,12 +1,11 @@
 # Site settings
 title: "Your Site Title"
 description: "Your site description goes here"
-baseurl: "" # leave empty if serving from root, or use repository name if using GitHub Pages
-url: "https://your-username.github.io" # replace with your domain or GitHub Pages URL
+baseurl: "notes" # leave empty if serving from root, or use repository name if using GitHub Pages
+url: "https://mr-izu.github.io" # replace with your domain or GitHub Pages URL
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-elca
 remote_theme: mr-izu/elca
 
 plugins:
