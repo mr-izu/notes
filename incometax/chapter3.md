@@ -23,4 +23,4 @@ Situation of Deemed ownership:
 - Property held by Trust
 
 Actual Rent:the rent received from the tenant to house owner  
-Municipal Rent value:
+Municipal Rent value: Value of rent determined by Muncipality
