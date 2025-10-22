@@ -36,4 +36,23 @@ A Person:
 
 Assessee:Every tax payer
 Deemed assessee:person liable to pay tax of income of another
-Representative assesee:Person liable to pay tax of third party
+Representative assesee:Person liable to pay tax of third party  
+assessee in default:person who failed to fulfill legal requirements related to income tax matters  
+assessment:computation of total income of assessee  
+assessment year 2(9):Financial year from April 1 to Next year March 31  
+previous year 3:the year before assessment year  
+accelerated assessment:paying tax on current year itself  
+Situation of accelerated assessment:
+- person leaving in india
+- non resident from shipping business
+- transfer of property to avoid tax
+- discontinuance of business
+- association of person(2 or more individuals joined with object of gain)
+- body of individual(2 or more person without object of gain)
+
+casual income(unexpected income)  
+gross total income:total income before making deductions  
+total income:after making deductions  
+Rebate Section 87A:individual entitled for rebate if income doesn't exceed 5 lakh
+surcharge:charge additional tax(tax on tax)
+Maximum marginal rate:tax rate applicable to the highest stab of income specified in the finance act
