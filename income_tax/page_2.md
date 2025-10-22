@@ -32,3 +32,22 @@ Conditions of Rule 4 to claim unrealized rent:
 - assessee took sufficient legal actions
 
 Unrealized rent treated for tax: treated as income the year it received. 30% deduction allowed for covering expenses
+
+*EXPECTED RENTAL VALUE*
+FRV/MRV which is higher compare to SRV then take which is less
+*GAV*
+ERV or ARV which is higher
+*ARV*
+*ANNUAL VALUE*
+GAV-Muncipal Tax
+
+*INCOME FROM HOUSE PROPERTY*
+Gross annual value xxx
+less:municipal tax xxx
+    :unrealized rent xxx
+Net Annual Value: XXX
+less:30% standard deduction xxx
+    :interest on capital borrowed xxx
+add:unrealized rent recovered xxx
+   :areas of rent received xxx
+ INCOME FROM HOUSE PROPERTY XXXX
