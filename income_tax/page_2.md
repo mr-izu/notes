@@ -51,3 +51,7 @@ less:30% standard deduction xxx
 add:unrealized rent recovered xxx
    :areas of rent received xxx
  INCOME FROM HOUSE PROPERTY XXXX
+
+deductions on income from house property:
+Standard deduction:upto 30%.not possible if GAV is null
+interest on capital borrowed:Self occupied:upto 2 lakh,let out property No limit
