@@ -33,13 +33,10 @@ Conditions of Rule 4 to claim unrealized rent:
 
 Unrealized rent treated for tax: treated as income the year it received. 30% deduction allowed for covering expenses
 
-*EXPECTED RENTAL VALUE*
-FRV/MRV which is higher compare to SRV then take which is less
-*GAV*
-ERV or ARV which is higher
-*ARV*
-*ANNUAL VALUE*
-GAV-Muncipal Tax
+```
+*ERV* = FRV/MRV which is higher compare to SRV then take which is less
+*GAV* = ERV or ARV which is higher
+*ANNUAL VALUE* = GAV-Muncipal Tax
 
 *INCOME FROM HOUSE PROPERTY*
 Gross annual value xxx
@@ -51,7 +48,7 @@ less:30% standard deduction xxx
 add:unrealized rent recovered xxx
    :areas of rent received xxx
  INCOME FROM HOUSE PROPERTY XXXX
-
+```
 deductions on income from house property:
 Standard deduction:upto 30%.not possible if GAV is null
 interest on capital borrowed:Self occupied:upto 2 lakh,let out property No limit
